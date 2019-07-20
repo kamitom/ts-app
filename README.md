@@ -1,2 +1,5 @@
-# 學習 typescript[EOF]
-# 學習 unit tests[EOF]
+# 學習 typescript
+
+## tsc --init 相關設定
+
+## 學習 unit tests
